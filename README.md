@@ -69,4 +69,11 @@ Run the program:
 python main.py
 
 Example Of Usage: 
-![vitm](https://github.com/user-attachments/assets/88e57e64-483b-475f-9970-629cb4f609c7)
+
+
+![vitm](https://github.com/user-attachments/assets/41bbc663-be9c-4c0b-a573-cf55a446964c)
+
+
+
+![vit2](https://github.com/user-attachments/assets/41cb4bbe-f9ad-43da-8408-c76a47f29d56)
+

@@ -1,7 +1,7 @@
 # Vitamin-Personalizer
 🧠 Vitamin Personalizer
 📌 Overview
-
+ Youtube video for explanation :[![Watch the video](https://img.youtube.com/vi/4DPUY7C_CjQ/maxresdefault.jpg)](https://youtu.be/4DPUY7C_CjQ) 
 The Vitamin Personalizer is a Python-based system that analyzes lab test results along with personal information (age, sex, weight, etc.) to provide personalized vitamin and nutrition recommendations.
 
 It’s designed to help users better understand their bloodwork by comparing values against dynamic reference ranges and generating a custom health report in PDF format.
